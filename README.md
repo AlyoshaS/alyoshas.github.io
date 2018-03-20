@@ -1,2 +1,3 @@
 # alyoshas.github.io
-:books: Repositório para exemplo de um blog feito usando Gatsby
+
+Exemplo de um blog usando [Gatsby](https://www.gatsbyjs.org/).
